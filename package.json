@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-webpack-2",
+  "version": "1.0.0",
+  "description": "Using:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaueviana/hello-world-webpack-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaueviana/hello-world-webpack-2/issues"
+  },
+  "homepage": "https://github.com/khaueviana/hello-world-webpack-2#readme",
+  "devDependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
